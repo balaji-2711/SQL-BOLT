@@ -1,2 +1,2 @@
-# db2
-db
+# SQL BOLT
+Sql bolt using sql queries
